@@ -1,0 +1,8 @@
+setup.py
+common_python_programs/__init__.py
+demo_pip_package.egg-info/PKG-INFO
+demo_pip_package.egg-info/SOURCES.txt
+demo_pip_package.egg-info/dependency_links.txt
+demo_pip_package.egg-info/not-zip-safe
+demo_pip_package.egg-info/top_level.txt
+test/test.py
